@@ -1,0 +1,30 @@
+
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    list-style-type: none;
+}
+
+.pai{
+    display: flex;
+    flex-direction:column;
+
+}
+
+.pai, .menu,ul, li{
+    display:flex;
+    flex-direction:row;
+    gap: 1em;
+    justify-content: center;
+}
+.menu{
+    background-color: cadetblue;
+    color:white;
+    width: 100%;
+}
+
+.pai, .conteudo{
+    display: flex;
+    flex-direction: column;
+   
+}
