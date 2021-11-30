@@ -1,2 +1,2 @@
-# id
-Um site de notícias simples
+# Um site de notícias simples
+
